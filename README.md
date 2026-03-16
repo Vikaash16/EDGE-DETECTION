@@ -54,15 +54,18 @@ plt.axis('off')
 ```
 ## Output:
 ### SOBEL EDGE DETECTOR
-<img width="608" height="345" alt="image" src="https://github.com/user-attachments/assets/300065a0-9430-4b09-bc12-4675889d2527" />
+<img width="724" height="440" alt="image" src="https://github.com/user-attachments/assets/a52fd56b-3f95-4b96-b15b-5be255a7ca44" />
+
 
 
 ### LAPLACIAN EDGE DETECTOR
-<img width="624" height="332" alt="image" src="https://github.com/user-attachments/assets/abadc007-80f3-49ca-8690-48b109418299" />
+<img width="716" height="445" alt="image" src="https://github.com/user-attachments/assets/9ae38f99-e563-47a8-aab8-df17d7dfb0af" />
+
 
 
 ### CANNY EDGE DETECTOR
-<img width="542" height="339" alt="image" src="https://github.com/user-attachments/assets/79d5e872-4962-494e-9e83-2bf1f33e4f67" />
+<img width="770" height="432" alt="image" src="https://github.com/user-attachments/assets/0ed740dc-1413-4bee-b3d9-cf14831a15b5" />
+
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
